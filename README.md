@@ -40,9 +40,11 @@ For documentation purposes, the following five representative sources were selec
 ## 1. Breakthrough Advertising Notes
 
 Source:
+
 https://www.parkerklein.com/notes/breakthrough-advertising
 
 Reason for Selection:
+
 A structured summary of the main concepts presented in *Breakthrough Advertising*.
 
 ---
@@ -50,9 +52,11 @@ A structured summary of the main concepts presented in *Breakthrough Advertising
 ## 2. 38 Ways to Strengthen Your Headlines
 
 Source:
+
 https://www.breakthroughmarketingsecrets.com/blog/382-ways-to-strengthen-your-headline-from-the-great-gene-schwartz/
 
 Reason for Selection:
+
 Provides practical headline-writing techniques inspired by Eugene Schwartz's work.
 
 ---
@@ -60,9 +64,11 @@ Provides practical headline-writing techniques inspired by Eugene Schwartz's wor
 ## 3. The 5 Stages of Customer Awareness
 
 Source:
+
 https://www.outbrain.com/blog/the-5-stages-of-customer-awareness-and-how-to-create-content-for-each/
 
 Reason for Selection:
+
 Shows how Schwartz's awareness framework can be applied to modern content marketing.
 
 ---
@@ -70,9 +76,11 @@ Shows how Schwartz's awareness framework can be applied to modern content market
 ## 4. Market Sophistication and the Unique Mechanism
 
 Source:
+
 https://theknowledgegym.com/market-sophistication-and-the-unique-mechanism-in-marketing/
 
 Reason for Selection:
+
 Provides a deeper understanding of market sophistication and offer differentiation.
 
 ---
@@ -80,9 +88,11 @@ Provides a deeper understanding of market sophistication and offer differentiati
 ## 5. Eugene Schwartz and Breakthrough Advertising
 
 Source:
+
 https://mirasee.com/blog/eugene-schwartz-breakthrough-advertising/
 
 Reason for Selection:
+
 Explains the core philosophy behind Eugene Schwartz's approach to persuasion and marketing.
 
 ---
@@ -270,27 +280,53 @@ The title responsible for capturing the reader's attention.
 
 # Evidence of Usage
 
-The NotebookLM workspace was built with 56 curated sources and dozens of interactions throughout the learning process.
+The screenshots below were captured during the development of the project.
 
-The images included in this repository demonstrate:
+**Note:** The NotebookLM interface appears in Brazilian Portuguese because the project was developed using a Portuguese-language environment. The study materials, prompt engineering process, and project documentation were organized and documented in English for broader accessibility.
 
-* Source organization;
-* Prompt testing;
-* AI-generated responses;
-* Knowledge retrieval from uploaded documents;
-* Active learning workflows.
+## Prompt Example 1: The 33-Minute Technique
 
-## Notebook Structure
+Question:
 
-![Notebook Structure](imagens/notebooklm-fontes.png)
+> How can I apply Eugene Schwartz's 33-minute technique to write faster?
 
-## Prompt Example
+Result:
 
-![33-Minute Technique](imagens/prompt-33-minutos.png)
+NotebookLM consolidated information from multiple sources and generated a structured explanation of Schwartz's productivity framework, including focus blocks, distraction elimination, strategic breaks, and subconscious processing.
 
-## Response Example
+![33-Minute Technique](images/prompt-33-minute-technique.png)
 
-![Boredom and Creativity](imagens/prompt-tedio.png)
+---
+
+## Prompt Example 2: Boredom as a Creative Tool
+
+Question:
+
+> How can boredom be used to write million-dollar advertisements?
+
+Result:
+
+The AI explained Schwartz's psychological approach to overcoming procrastination and creative blocks through intentional stimulus reduction and cognitive confinement.
+
+![Boredom and Creativity](images/prompt-boredom-writing.png)
+
+---
+
+## Prompt Example 3: Schwartz vs. Pomodoro
+
+Question:
+
+> What is the difference between Eugene Schwartz's technique and the Pomodoro Technique?
+
+Result:
+
+NotebookLM compared both productivity methods, highlighting differences in focus duration, psychological approach, creative stimulation, and practical application for writing and knowledge work.
+
+![Schwartz vs Pomodoro](images/prompt-schwartz-vs-pomodoro.png)
+
+---
+
+These interactions demonstrate how NotebookLM was used as an AI-assisted learning environment capable of synthesizing information across dozens of sources and transforming it into practical, actionable knowledge.
 
 ---
 
